@@ -102,3 +102,18 @@
 ```
 
 > **align-items: center** faz com que os elementos dentro do pai que está com flex se alinhem verticalmente, portanto, pra eles ficarem alinhados no centro podemos usar `align-items: center`, colocando essa propriedade no pai dos elementos que queremos alinhar, no caso `.cabecalho`
+
+
+# Aula 02 - Fazendo o footer e controlando melhor os elementos
+
+* Podemos distribuir os elementos dentro do pai de diversas formas, podemos por exemplo:
+
+* Colocar todo espaço à esquerda, jogando o conteúdo para direita com **justify-content: flex-end**
+
+* Colocar todo o espaço à direita, jogando o conteúdo para esquerda com **justify-content: flex-start** (padrão)
+
+* Colocar todo espaço à direita, jogando o conteúdo para o meio com **justify-content: center**
+
+* Colocar todo espaço entre os elementos como vimos antes usando **justify-content: space-between**
+
+* Colocar o espaço em volta dos elementos usando **justify-content: around**
