@@ -117,3 +117,32 @@
 * Colocar todo espaço entre os elementos como vimos antes usando **justify-content: space-between**
 
 * Colocar o espaço em volta dos elementos usando **justify-content: around**
+
+# Aula 04 - Arrumando os elementos com flex para mobile
+
+* Propriedades são aplicadas ao container e aos flex items, não há necessidade de ficar decorando, isso virá naturalmente com a prática.
+
+* Seguindo a documentação temos:
+
+**flex container:**
+
+```
+display: flex
+flex-direction
+justify-content
+flex-wrap
+flex-flow
+align-items
+align-content
+```
+
+**flex item:**
+
+```
+order
+flex-grow
+flex-shrink
+flex-basis
+flex
+align-self
+```
