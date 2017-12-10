@@ -120,6 +120,8 @@
 
 # Aula 04 - Arrumando os elementos com flex para mobile
 
+![](https://developer.mozilla.org/files/3739/flex_terms.png)
+
 * Propriedades são aplicadas ao container e aos flex items, não há necessidade de ficar decorando, isso virá naturalmente com a prática.
 
 * Seguindo a documentação temos:
